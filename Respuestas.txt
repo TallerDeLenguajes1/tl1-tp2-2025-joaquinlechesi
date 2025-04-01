@@ -3,3 +3,6 @@ No desde la rama main, porque el archivo pertenece a la rama Opcion_2
 
 En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
 Aparece en el historial del main el commit para el archivo Respuestas.txt
+
+En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+Ahora existe en la rama principal los archivos creados en la rama Opcion_2
