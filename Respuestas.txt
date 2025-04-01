@@ -1,0 +1,5 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No desde la rama main, porque el archivo pertenece a la rama Opcion_2
+
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+Aparece en el historial del main el commit para el archivo Respuestas.txt
